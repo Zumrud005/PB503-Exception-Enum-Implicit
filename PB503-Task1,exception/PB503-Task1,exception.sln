@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PB503-Task1,exception", "PB503-Task1,exception.csproj", "{5106BABC-F277-4D19-9328-B30F7D2A96DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5106BABC-F277-4D19-9328-B30F7D2A96DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5106BABC-F277-4D19-9328-B30F7D2A96DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5106BABC-F277-4D19-9328-B30F7D2A96DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5106BABC-F277-4D19-9328-B30F7D2A96DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B65D67E-6251-4D6A-8D18-9022AEC9E314}
+	EndGlobalSection
+EndGlobal

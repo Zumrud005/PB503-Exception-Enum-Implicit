@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-Task1,exception\bin\Debug\net6.0\PB503-Task1,exception.exe
+C:\Users\ASUS\source\repos\PB503-Task1,exception\bin\Debug\net6.0\PB503-Task1,exception.deps.json
+C:\Users\ASUS\source\repos\PB503-Task1,exception\bin\Debug\net6.0\PB503-Task1,exception.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-Task1,exception\bin\Debug\net6.0\PB503-Task1,exception.dll
+C:\Users\ASUS\source\repos\PB503-Task1,exception\bin\Debug\net6.0\PB503-Task1,exception.pdb
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.dll
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\refint\PB503-Task1,exception.dll
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.pdb
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\PB503-Task1,exception.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-Task1,exception\obj\Debug\net6.0\ref\PB503-Task1,exception.dll
